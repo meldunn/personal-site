@@ -58,8 +58,7 @@ export default function Home() {
                 />
               </a>
             </Link>
-            <Image priority
-                  src="/gweg" height={30} width={30} />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <Link href="https://www.linkedin.com/in/melissa-dunn-ba33281a4/">
               <a>
                 <Image
@@ -67,7 +66,7 @@ export default function Home() {
                   src="/images/linkedin_icon.png"
                   height={30}
                   width={30}
-                  alt="github"
+                  alt="linkedin"
                 />
               </a>
             </Link>
