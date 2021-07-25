@@ -52,7 +52,6 @@ export default function Home() {
                 <Image
                   priority
                   src="/images/github_icon.png"
-                 // className={utilStyles.borderCircle}
                   height={30}
                   width={30}
                   alt="github"
@@ -66,7 +65,6 @@ export default function Home() {
                 <Image
                   priority
                   src="/images/linkedin_icon.png"
-                  //className={utilStyles.borderCircle}
                   height={30}
                   width={30}
                   alt="github"
