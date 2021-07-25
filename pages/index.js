@@ -37,8 +37,8 @@ export default function Home() {
             {" "}
             McGill Computer Science Undergraduate Society
           </a>
-          , and a CS Tutor at the{" "}
-          <a href="https://mcgill-csus.ca/helpdesk"> CSUS Helpdesk</a>.
+          , and CS Tutor at the{" "}
+          <a href="https://mcgill-csus.ca/helpdesk"> McGill CSUS Helpdesk</a>.
         </p>
       </section>
       <section className={utilStyles.center}>
