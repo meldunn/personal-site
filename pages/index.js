@@ -9,7 +9,14 @@ export default function Home() {
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
-        <meta property="og:image" content={"https://live.staticflickr.com/65535/51335501793_28c4ea235b_h.jpg"} />
+        {/* <meta property="og:image" content={"https://live.staticflickr.com/65535/51335501793_28c4ea235b_h.jpg"} /> */}
+
+        <meta name="description" content="Personal Website" />
+        <meta name="title" property="og:title" content="Melissa's Personal Website" />
+        <meta property="og:type" content="Website" />
+        <meta name="image" property="og:image" content="https://live.staticflickr.com/65535/51335501793_28c4ea235b_h.jpg" />
+        <meta name="description" property="og:description" content="Melissa's Personal Website" />
+        <meta name="author" content="Melissa Dunn" />
       </Head>
       {/* <section className={utilStyles.center}>
         <body>
