@@ -9,7 +9,7 @@ export default function Home() {
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
-        <meta property="og:image" content={"/images/site_screenshot.PNG"} />
+        <meta property="og:image" content={"https://live.staticflickr.com/65535/51335501793_28c4ea235b_h.jpg"} />
       </Head>
       {/* <section className={utilStyles.center}>
         <body>
