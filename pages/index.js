@@ -17,6 +17,7 @@ export default function Home() {
         <meta name="image" property="og:image" content="https://live.staticflickr.com/65535/51335501793_28c4ea235b_h.jpg" />
         <meta name="description" property="og:description" content="Melissa's Personal Website" />
         <meta name="author" content="Melissa Dunn" />
+        <meta name="google-site-verification" content="VKa-xBrsrocGRYDkHSeMEnLldz5WRjkm15dYYSm5DzY" />
       </Head>
       {/* <section className={utilStyles.center}>
         <body>
@@ -37,16 +38,20 @@ export default function Home() {
         </p>
         <p>
           {" "}
-          Currently a Software Developer Intern at{" "}
-          <a href="https://www.morganstanley.com/"> Morgan Stanley</a>, Full
+          Currently a Full
           Stack Developer at <a href="https://mchacks.ca/">HackMcGill</a>,
           President of the
           <a href="https://mcgill-csus.ca/">
             {" "}
             McGill Computer Science Undergraduate Society
           </a>
-          , and CS Tutor at the{" "}
+          , and Computer Science Tutor at the{" "}
           <a href="https://mcgill-csus.ca/helpdesk"> McGill CSUS Helpdesk</a>.
+        </p>
+        <p>
+          {" "}
+          Previously worked as a Software Developer Intern at{" "}
+          <a href="https://www.morganstanley.com/"> Morgan Stanley</a> during Summer 2021.
         </p>
       </section>
       <section className={utilStyles.center}>
